@@ -1,3 +1,6 @@
+# You are referred to the following link to get the dataset:
+https://huggingface.co/debajyoty/statistical-regression-Based-MT/tree/main/Statistical-Regression-SMT
+
 # ML-based-MT-Datasets
 It is the Dataset to train SMT decoder to optimize beam threshold and stack size using Statistical and Neural Network Regression.
 This is prepared benchmark dataset.
